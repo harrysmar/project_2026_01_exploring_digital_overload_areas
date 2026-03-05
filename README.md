@@ -1,4 +1,4 @@
-# 🧓 2026-01 Digital Overload Analysis
+# 🧓 2026-01 Regional Digital Overload Analysis
 
 This repository contains an early-stage data analysis project exploring regions affected by digital overload, classifying them into four types, and proposing potential solutions for each category.
 
